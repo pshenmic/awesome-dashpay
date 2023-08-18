@@ -15,14 +15,21 @@ A curated list of awesome Dash links.
 * [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards & Top Up Airtime with Bitcoin or Crypto
 * [HermesVPN](https://www.dash.org/forum/index.php?threads/hermes-vpn-dash-vpn-service.53990/#post-235797) - Buy VPN for Dash
 
+### Governance
+* [DashCentral](https://www.dashcentral.org/) - Watch, vote and discuss dash network proposals
+
 ### Analytics
 * [MNO Watch Services](https://mnowatch.org/) - Useful info about Dash Network, Masternodes and Dash DAO governances
 * [Dash Charts](http://178.254.23.111/~pub/Dash/Dash_Info.html) - Charts and analytics for the dash blockchain
+* [Mempool](https://mempool.jhoenicke.de/#DASH,6m,weight) - Check current mempool in Dash network
 
 ### Explorers
 * [Dash Official Explorer](https://explorer.dash.org) - Official block explorer based on the Insight
 * [Dash Explorer Testnet](https://insight.testnet.networks.dash.org:3001/insight) - Testnet chain of the official explorer
 * [Platform Explorer](https://platform-explorer.com/) - Explore upcoming Dash Platform chain in the testnet
+* [BlockChair](https://blockchair.com/ru/dash) - blockchair explorer with dash support
+* [CryptoID](https://chainz.cryptoid.info/dash/) - CryptoID third party explorer
+* [BlockCypher](https://live.blockcypher.com/dash/) - third party explorer supporting mainnet and testnet
 
 ### JS Libraries
 * [Dash SDK](https://github.com/dashpay/platform/tree/master/packages/js-dash-sdk) - Next generation Dash SDK toolset with SPV wallet (**testnet**)
@@ -36,6 +43,10 @@ A curated list of awesome Dash links.
 * [Dash Wallet Android](https://github.com/dashpay/dash-wallet) - Android wallet available in the Google Play as Dash Wallet
 * [MyDashWallet](https://mydashwallet.org) - free, open-source, client-side wallet
 * [Electrum Dash](https://github.com/Bertrand256/electrum-dash) - Electrum Dash
+* [Edge](https://edge.app/) - Edge Wallet (iOS / Android)
+* [TrustWallet](https://trustwallet.com) - TrustWallet
+* [Ledger](https://www.ledger.com/) - Ledger hardware wallet (supports Dash)
+* [Trezor](https://trezor.io/) - Trezor hardware wallet (supports Dash)
 
 ### Dash Platform DAPPs (testnet)
 * [DashGetNames](https://dashgetnames.com) - Register your own Dash DPNS domain
@@ -48,6 +59,7 @@ A curated list of awesome Dash links.
 * [Masternode Zeus](https://github.com/kxcd/Masternode-Zeus) - install and monitor your node 
 
 ### Socials
+* [BitcoinTalk](https://bitcointalk.org/index.php?topic=421615) - Youtube
 * [Reddit](https://www.reddit.com/r/dashpay/) - Reddit
 * [Twitter](https://twitter.com/Dash_Community) - Twitter
 * [Discord](https://discord.gg/4SPbWtZz7J) - Discord
