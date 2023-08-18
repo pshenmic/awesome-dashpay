@@ -20,8 +20,10 @@ A curated list of awesome Dash links.
 * [Dash Core Wallet](https://github.com/dashpay/dash) - The core wallet of the Dash Blockchain
 * [Dash Wallet IOS](https://github.com/dashpay/dashwallet-ios) - IOS wallet available in the App Store as Dash Wallet
 * [Dash Wallet Android](https://github.com/dashpay/dash-wallet) - Android wallet available in the Google Play as Dash Wallet
+* [MyDashWallet](https://mydashwallet.org) - free, open-source, client-side wallet
+* [Electrum Dash](https://github.com/Bertrand256/electrum-dash) - Electrum Dash
 
-### Dash Platform DAPPs
+### Dash Platform DAPPs (testnet)
 * [DashGetNames](https://dashgetnames.com) - Register your own Dash DPNS domain
 * [DashShoutOut](https://dashshoutout.com) - Send and receive messages with other Dash users
 * [DashGetMoney](https://dashgetmoney.com) - Receive Dash payments with the names
