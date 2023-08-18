@@ -11,6 +11,10 @@ A curated list of awesome Dash links.
 * [ElDorado](https://www.eldorado.market/) - ElDorado interface of the Maya DEX
 * [ThorWallet](https://app.thorwallet.org/) - Maya DEX implemented with Throwallet
 
+### Spend Dash
+* [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards & Top Up Airtime with Bitcoin or Crypto
+* [HermesVPN](https://www.dash.org/forum/index.php?threads/hermes-vpn-dash-vpn-service.53990/#post-235797) - Buy VPN for Dash
+
 ### Analytics
 * [MNO Watch Services](https://mnowatch.org/) - Useful info about Dash Network, Masternodes and Dash DAO governances
 * [Dash Charts](http://178.254.23.111/~pub/Dash/Dash_Info.html) - Charts and analytics for the dash blockchain
