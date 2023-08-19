@@ -57,6 +57,7 @@ A curated list of awesome Dash links.
 ### Masternode Software
 * [Dashmate](https://dashmate.org) - powerful tool for registering, setting up and managing your own node
 * [Masternode Zeus](https://github.com/kxcd/Masternode-Zeus) - install and monitor your node 
+* [Dash Masternode Tool](https://github.com/Bertrand256/dash-masternode-tool) - GUI interface allowing to control your nodes 
 
 ### Socials
 * [BitcoinTalk](https://bitcointalk.org/index.php?topic=421615) - Youtube
