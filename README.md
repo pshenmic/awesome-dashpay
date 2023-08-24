@@ -42,6 +42,7 @@ A curated list of awesome Dash links.
 * [Dash Wallet IOS](https://github.com/dashpay/dashwallet-ios) - IOS wallet available in the App Store as Dash Wallet
 * [Dash Wallet Android](https://github.com/dashpay/dash-wallet) - Android wallet available in the Google Play as Dash Wallet
 * [MyDashWallet](https://mydashwallet.org) - free, open-source, client-side wallet
+* [Dash PaperWallet Generator](https://paper.dash.org) - Open Source JavaScript Client-Side Dash Wallet Generator
 * [Electrum Dash](https://github.com/Bertrand256/electrum-dash) - Electrum Dash
 * [Edge](https://edge.app/) - Edge Wallet (iOS / Android)
 * [TrustWallet](https://trustwallet.com) - TrustWallet
@@ -57,7 +58,7 @@ A curated list of awesome Dash links.
 ### Masternode Software
 * [Dashmate](https://dashmate.org) - powerful tool for registering, setting up and managing your own node
 * [Masternode Zeus](https://github.com/kxcd/Masternode-Zeus) - install and monitor your node 
-* [Dash Masternode Tool](https://github.com/Bertrand256/dash-masternode-tool) - GUI interface allowing to control your nodes 
+  * [Dash Masternode Tool](https://github.com/Bertrand256/dash-masternode-tool) - GUI interface allowing to control your nodes 
 
 ### Socials
 * [BitcoinTalk](https://bitcointalk.org/index.php?topic=421615) - Youtube
