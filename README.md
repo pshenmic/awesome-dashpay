@@ -1,4 +1,4 @@
-# awesome-dash
+# awesome-dashpay
 
 A curated list of awesome Dash links.
 
